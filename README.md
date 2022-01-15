@@ -16,6 +16,34 @@ to develop reliable battery aging prediction models.
 8. You may make changes in the data set used and target to be run
 
 
+
+
+
+
+
+
+
+
+# Citation 
+@inproceedings{haoyietal-informer-2021,
+  author    = {Haoyi Zhou and
+               Shanghang Zhang and
+               Jieqi Peng and
+               Shuai Zhang and
+               Jianxin Li and
+               Hui Xiong and
+               Wancai Zhang},
+  title     = {Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting},
+  booktitle = {The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021, Virtual Conference},
+  volume    = {35},
+  number    = {12},
+  pages     = {11106--11115},
+  publisher = {{AAAI} Press},
+  year      = {2021},
+}
+
+
+
 ## Acknowledgement
 We appreciate the following github repositories a lot for their valuable code base or datasets:
 
