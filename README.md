@@ -1,7 +1,8 @@
 # Attention-based-Battery-Parameter-Augmentation-Technique-to-Alleviate-Limited-Data-Challenges
 
-## Get started
-This project has been executed via google colab.
+We aim to resolve the data scarcity issue by employing an attention-based technique
+to generate reliable synthetic data. The generated data will greatly assist researchers
+to develop reliable battery aging prediction models.
 
 # Procedure to run this code- 
 
